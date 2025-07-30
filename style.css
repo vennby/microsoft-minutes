@@ -1,0 +1,90 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #212529;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+#searchBox,
+#sortOrder {
+  margin: 10px 5px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+#searchBox {
+  width: 60%;
+  max-width: 300px;
+}
+
+#sortOrder {
+  background: #ffffff;
+}
+
+main {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+#loader {
+  text-align: center;
+  font-size: 1.2em;
+  color: #555;
+}
+
+.hidden {
+  display: none;
+}
+
+.team-section {
+  margin-bottom: 40px;
+}
+
+.team-section h2 {
+  background-color: #495057;
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+}
+
+.meeting-entry {
+  background-color: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 15px;
+  margin-top: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.meeting-entry .header {
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.meeting-entry .content {
+  margin-top: 10px;
+  display: none;
+}
+
+.meeting-entry.open .content {
+  display: block;
+}
