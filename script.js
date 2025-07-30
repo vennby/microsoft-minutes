@@ -13,30 +13,18 @@ async function fetchMinutes() {
     const contentByTeam = {};
 
     for (const file of files) {
-        if (file.name.endsWith(".md")) {
-            const rawMd = await fetch(file.download_url).then(r => r.text());
+        if (!file.name.endsWith(".md")) continue;
 
-            let team = "unknown", date = "unknown";
-            const frontmatter = /^---([\s\S]*?)---/.exec(rawMd);
-            let content = rawMd;
+        const match = file.name.match(/^([^-]+)-(\d{4}-\d{2}-\d{2})\.md$/);
+        if (!match) continue;
 
-            if (frontmatter) {
-                frontmatter[1].split('\n').forEach(line => {
-                    if (line.startsWith("team:")) team = line.split(":")[1].trim();
-                    if (line.startsWith("date:")) date = line.split(":")[1].trim();
-                });
-                content = rawMd.replace(frontmatter[0], '').trim();
-            } else {
-                const match = file.name.match(/^([^-]+)-(\d{4}-\d{2}-\d{2})\.md$/);
-                if (match) {
-                    team = match[1];
-                    date = match[2];
-                }
-            }
+        const team = match[1];
+        const date = match[2];
 
-            if (!contentByTeam[team]) contentByTeam[team] = [];
-            contentByTeam[team].push({ date, content });
-        }
+        const rawMd = await fetch(file.download_url).then(r => r.text());
+
+        if (!contentByTeam[team]) contentByTeam[team] = [];
+        contentByTeam[team].push({ date, content: rawMd });
     }
 
     rawData = contentByTeam;
