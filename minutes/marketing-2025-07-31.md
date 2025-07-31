@@ -17,47 +17,27 @@
 <p>Reel Idea: <em>The Summer I Turned Pretty</em> theme for Microsoft Powerpynt event</p>
 </li>
 <li>
-<p>Virtual Treasure Hunt – Tanisha</p>
+<p>Virtual Treasure Hunt – Tanisha<br>
+Use MTC Instagram page; content hidden within page posts/stories</p>
 </li>
 <li>
-<p>Use MTC Instagram page; content hidden within page posts/stories</p>
+<p>GeoGuesser – BPDC Edition – Tanisha<br>
+Post random photos from the college campus<br>
+Freshers guess the location; introduces them to campus</p>
 </li>
 <li>
-<p>GeoGuesser – BPDC Edition – Tanisha</p>
-</li>
-<li>
-<p>Post random photos from the college campus</p>
-</li>
-<li>
-<p>Freshers guess the location; introduces them to campus</p>
-</li>
-<li>
-<p>GeoGuesser – MTC Edition – Tanisha</p>
-</li>
-<li>
-<p>Post photos of MTC stall setups in different campus locations</p>
-</li>
-<li>
-<p>Participants guess the correct location</p>
+<p>GeoGuesser – MTC Edition – Tanisha<br>
+Post photos of MTC stall setups in different campus locations<br>
+Participants guess the correct location</p>
 </li>
 </ul>
 <p>September 2025 (Post College Reopening)</p>
 <ul>
-<li>
-<p>On-Campus Treasure Hunt – Sathvik</p>
-</li>
-<li>
-<p>During Ice Breakers Week</p>
-</li>
-<li>
-<p>MTC content hidden around campus</p>
-</li>
-<li>
-<p>Clues revealed every hour on social media</p>
-</li>
-<li>
-<p>Prizes awarded hourly; unused prize money rolls into next levels</p>
-</li>
+<li>On-Campus Treasure Hunt – Sathvik<br>
+During Ice Breakers Week<br>
+MTC content hidden around campus<br>
+Clues revealed every hour on social media<br>
+Prizes awarded hourly; unused prize money rolls into next levels</li>
 </ul>
 <p><strong>ERP Feature Request</strong></p>
 <ul>
@@ -66,28 +46,18 @@
 <p><strong>Marketing Schedule (GST Time)</strong></p>
 <ul>
 <li>
-<p>2nd August – Posting</p>
+<p>2nd August – Posting<br>
+Prerana – Instagram @ 6:30 PM<br>
+Aminta – LinkedIn @ 6:30 PM<br>
+Tanisha – WhatsApp Messages @ 6:30 PM</p>
 </li>
 <li>
-<p>Prerana – Instagram @ 6:30 PM</p>
+<p>6th August – Reel Deadline<br>
+Smrithi</p>
 </li>
 <li>
-<p>Aminta – LinkedIn @ 6:30 PM</p>
-</li>
-<li>
-<p>Tanisha – WhatsApp Messages @ 6:30 PM</p>
-</li>
-<li>
-<p>6th August – Reel Deadline</p>
-</li>
-<li>
-<p>Smrithi</p>
-</li>
-<li>
-<p>8th August – Powerpynt Reel Post</p>
-</li>
-<li>
-<p>Smrithi</p>
+<p>8th August – Powerpynt Reel Post<br>
+Smrithi</p>
 </li>
 <li>
 <p>16th August – Tentative Reel Deadline (if new idea arises)</p>
