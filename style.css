@@ -1,5 +1,8 @@
-body {
+* {
   font-family: "Segoe UI", sans-serif;
+}
+
+body {
   background: #f4f6f8;
   margin: 0;
   padding: 0;
@@ -15,6 +18,26 @@ header {
 header h1 {
   margin: 0;
   font-size: 1.8rem;
+}
+
+#dirNames {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.dir-name {
+  font-family: monospace;
+  background-color: #495057;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.dir-name.active {
+  background-color: #7c8a97;
 }
 
 #searchBox,
