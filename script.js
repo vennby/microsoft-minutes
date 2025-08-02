@@ -128,7 +128,7 @@ function render(data) {
 
             const contentDiv = document.createElement("div");
             contentDiv.className = "content";
-            contentDiv.innerHTML = marked.parse(entry.content);
+            contentDiv.innerHTML = marked.parse(entry.content, {breaks: true});
             entryDiv.appendChild(contentDiv);
 
             title.onclick = () => {
