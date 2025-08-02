@@ -8,6 +8,7 @@ View the "ERP Proposed Options" document for more info on the available options 
 Some theory:
 - InfinityFree has a concept of "profile", which is what you log into. Under a profile, you can create three "accounts", where each "account" is dedicated for one website.
 - InfinityFree comes with [cPanel](https://cpanel.net), which is a very popular admin panel for managing webservers.
+- InfinityFree also provides FTP access. Its credentials are provided in the InfinityFree dashboard.
 - We have installed WordPress into the website, which is a content management system. Its most important features include security and account management.
 - We'll be creating a WordPress Theme. A WordPress Theme dictates the content that appears on your website. We'll effectively design our own content, functionality, pages, etc. under this "theme".
 
