@@ -79,7 +79,7 @@ main {
   margin-bottom: 40px;
 }
 
-.team-section h2 {
+.team-section > h2.team-header {
   background-color: #495057;
   color: white;
   padding: 12px;

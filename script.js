@@ -107,6 +107,7 @@ function render(data) {
         section.className = "team-section";
 
         const header = document.createElement("h2");
+        header.classList.add("team-header");
         header.textContent = team.charAt(0).toUpperCase() + team.slice(1);
         section.appendChild(header);
 
