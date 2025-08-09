@@ -2,7 +2,7 @@
 
 This is a convenient static webpage for the MTC council to keep track of meetings, events, documentation, and deadlines. We're using [StackEdit](https://stackedit.io) to quickly create Markdown documentation in-browser and to push to this repo. It's open-source and free, and has this amazing connection to push directly to any GitHub repo you have access to push to.
 
-### How to push to this repo?
+## How to push to this repo?
 1. Request access to any one of the collaborators for your GitHub account.
 2. Create your Markdown documentation on [StackEdit](https://stackedit.io/app).
 3. Once you're done creating, click on the ![StackEdit](README-stackedit.png) StackEdit icon on the top-right, and click on "Publish". Add your GitHub account if not already done. Click on "Publish to GitHub".
