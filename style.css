@@ -81,10 +81,13 @@ main {
 }
 
 .team-section > h2.team-header {
+  position: sticky;
+  top: 0px;
   background-color: #495057;
   color: white;
   padding: 12px;
   border-radius: 5px;
+  z-index: 99; /* so that the team heading appears OVER the meeting entry */
 }
 
 .meeting-entry {
@@ -97,6 +100,10 @@ main {
 }
 
 .meeting-entry .header {
+  background: white;
+  padding: 8px 4px;
+  position: sticky;
+  top: 56px; /* 56px is the exact height of Team Header, hence meeting-entry's header appears exactly below it */
   font-weight: bold;
   cursor: pointer;
   display: flex;
