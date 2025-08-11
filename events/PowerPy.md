@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="microsoft-powerpynt">Microsoft PowerPynt</h1>
 <p>Microsoft Tech Club is pleased to bring to you the first competition of this academic year, <strong>Microsoft PowerPynt</strong>!</p>
 <h3 id="competition-problem-statement">Competition Problem Statement</h3>
