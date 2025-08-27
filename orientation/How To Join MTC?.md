@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <td>Cash</td>
-<td>Please reach out to Chhavi on WA (+91 70424 02004)</td>
+<td>Please reach out to <strong>Chhavi</strong> on WA (+91 70424 02004)</td>
 </tr>
 </tbody>
 </table>
