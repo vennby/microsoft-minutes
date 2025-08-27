@@ -5,11 +5,11 @@
 <h3 id="example">Example</h3>
 <p>For reference, here are the winning submissions from <strong>Mediathon 1.0</strong>:</p>
 <ol>
-<li>Best Entry: <a href="https://github.com/ruknology-but-why/ruknology-but-why.github.io/">Team Caesar Salad</a></li>
+<li>Best Entry: <a href="https://ruknology-but-why.github.io/">Team Caesar Salad</a></li>
 <li>Best Website: <a href="https://sreenikethani.github.io/Mediathon2024-Logitik/">Team Logitik</a></li>
-<li>Best Pictures: <a href="https://github.com/Ria2102/Ria2102.github.io">Team Podium</a></li>
-<li>Freshers’ Category: <a href="https://github.com/AlphatTrons/Alphatrons-Bits.git">Team Alphatrons</a></li>
-<li>Honorable Meme Mention: <a href="https://github.com/Sanvit-Katrekar/MTC-Mediathon">Team Mavericks</a></li>
+<li>Best Pictures: <a href="https://ria2102.github.io/">Team Podium</a></li>
+<li>Freshers’ Category: <a href="https://alphattrons.github.io/Alphatrons-Bits/">Team Alphatrons</a></li>
+<li>Honorable Meme Mention: <a href="https://sanvit-katrekar.github.io/MTC-Mediathon/">Team Mavericks</a></li>
 </ol>
 <h3 id="eligibility">Eligibility</h3>
 <ol>
@@ -127,4 +127,6 @@
 <li>Upload all the pictures used in a Drive.</li>
 <li>Fill out the form for submission.</li>
 </ol>
+<h3 id="registration">Registration</h3>
+<p>Stay tuned to MTC, registration link will be published soon!</p>
 
