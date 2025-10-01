@@ -18,6 +18,18 @@
 <td><a href="https://www.canva.com/design/DAGxeuYX2Uc/thLrHH3ymzUuWUT_gQj4Cg/edit">Monthly Calendar</a></td>
 <td>Event Calendar Posts</td>
 </tr>
+<tr>
+<td><a href="https://www.canva.com/design/DAG0WmqzwKY/v3GHXqQ4kq_gx6O7ASUgcA/edit?utm_content=DAG0WmqzwKY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">MoM</a></td>
+<td>Monthly Members Posts</td>
+</tr>
+<tr>
+<td><a href="https://www.canva.com/design/DAGwzlpVocc/NPx7ys6FVl1cXqIH5GbGwg/edit">Newsletter</a></td>
+<td>Monthly Newsletters Compilation</td>
+</tr>
+<tr>
+<td><a href="https://www.canva.com/design/DAGzuM9p5lM/QVduOY4jhptxBAD6IKQ1Aw/edit">YT Thumbnails</a></td>
+<td>YouTube Video Thumbnails</td>
+</tr>
 </tbody>
 </table><h3 id="event-canva-templates">Event Canva Templates</h3>
 
@@ -71,6 +83,10 @@
 <tr>
 <td><a href="https://www.canva.com/design/DAGx7gxl1Ik/hbjBolz1U1ndWTbQ8aA-wg/edit">Internships</a></td>
 <td>Call for SmartLife Internships</td>
+</tr>
+<tr>
+<td><a href="">Sandbox</a></td>
+<td>Call for Sandbox applications</td>
 </tr>
 </tbody>
 </table>
