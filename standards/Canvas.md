@@ -57,6 +57,22 @@
 <td><a href="https://www.canva.com/design/DAGylQZs2dc/zpsk_Qz2bbIhh5GwoDZj-g/edit?utm_content=DAGylQZs2dc&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">404: Creativity Not Found</a></td>
 <td>Error-page Design Competition</td>
 </tr>
+<tr>
+<td><a href="https://www.canva.com/design/DAG1O5sIl5U/Pu4z6w4qD75nf367u0n3BA/edit?utm_content=DAG1O5sIl5U&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">Excel Championship</a></td>
+<td>Chemistry-based Excel Championship</td>
+</tr>
+<tr>
+<td><a href="https://www.canva.com/design/DAG1TuT8H6M/FLCdUioJDu7danjK_UwpjQ/edit?utm_content=DAG1TuT8H6M&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">Oscorp Files</a></td>
+<td>Biotech-based CTF</td>
+</tr>
+<tr>
+<td><a href="https://www.canva.com/design/DAG1FL2dZps/YPbp2R6FMfmziVTjGcU3Zg/edit?utm_content=DAG1FL2dZps&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">Ready Player One</a></td>
+<td>Inter-University gentic-AI Hackathon</td>
+</tr>
+<tr>
+<td>ThinkAI’25</td>
+<td>Flagship Microsoft Imagine Cup Prequel</td>
+</tr>
 </tbody>
 </table><h3 id="announcement-canva-templates">Announcement Canva Templates</h3>
 
