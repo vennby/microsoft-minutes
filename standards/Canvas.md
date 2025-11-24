@@ -70,7 +70,7 @@
 <td>Inter-University gentic-AI Hackathon</td>
 </tr>
 <tr>
-<td>ThinkAI’25</td>
+<td><a href="https://www.canva.com/design/DAG4GjvRjMw/fnjic1McqTfG-MLUUB3BMA/edit">ThinkAI’25</a></td>
 <td>Flagship Microsoft Imagine Cup Prequel</td>
 </tr>
 </tbody>
